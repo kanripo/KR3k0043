@@ -1,0 +1,12 @@
+#+KEY: 稗編/稗編
+#+PROPERTY: JUAN 稗編
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 14類書類
+#+PROPERTY: FW 子部,類書類,稗編
+<pb:ZB3k0043_WYG_000-1a>¶
+　　謹案卷九十一第三十七頁前八行圖們岱爾舊¶
+　　　作秃滿迭兒又蘇克舊作速怯又鼐爾舊作那¶
+　　　兒今並改¶
+#-*- mode: mandoku-view; -*-
+#+TITLE: 稗編
+#+PROPERTY: ID ZB3k0043
